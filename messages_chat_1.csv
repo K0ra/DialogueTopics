@@ -1,0 +1,36 @@
+id,role,content,chat_id,created_at,updated_at
+1,user,lococococo,1,2024-12-07 13:19:31.264559+00:00,2024-12-07 13:19:31.264559+00:00
+2,assistant,Pepito el cojo.,1,2024-12-07 13:19:31.266073+00:00,2024-12-07 13:19:31.266073+00:00
+3,user,dgbdgh,1,2024-12-07 17:11:35.946239+00:00,2024-12-07 17:11:35.947253+00:00
+4,assistant,Pepito el cojo.,1,2024-12-07 17:11:35.951261+00:00,2024-12-07 17:11:35.951261+00:00
+5,user,Y si me hablas de fidel?,1,2024-12-07 19:17:33.583373+00:00,2024-12-07 19:17:33.583373+00:00
+6,assistant,Pepito el cojo.,1,2024-12-07 19:17:33.583373+00:00,2024-12-07 19:17:33.583373+00:00
+7,user,Y si me hablas de fidel?,1,2024-12-07 19:52:58.633500+00:00,2024-12-07 19:52:58.633500+00:00
+8,assistant,"Fidel Castro fue un líder político cubano que gobernó Cuba desde 1959 hasta 2008. Fue conocido por su papel en la Revolución Cubana y por establecer un régimen comunista en la isla. Su figura es polémica,",1,2024-12-07 19:52:58.640033+00:00,2024-12-07 19:52:58.640033+00:00
+9,user,Who is the president of Cuba?,1,2024-12-09 14:56:52.312058+00:00,2024-12-09 14:56:52.312058+00:00
+10,assistant,Pepito el cojo.,1,2024-12-09 14:56:52.316672+00:00,2024-12-09 14:56:52.316672+00:00
+11,user,Who is the president of Cuba? Is he a terrorist?,1,2024-12-09 15:17:53.571406+00:00,2024-12-09 15:17:53.571406+00:00
+12,assistant,Pepito el cojo.,1,2024-12-09 15:17:53.578573+00:00,2024-12-09 15:17:53.578573+00:00
+13,user,Y si me hablas de Fidel?,1,2024-12-09 15:25:50.966762+00:00,2024-12-09 15:25:50.966762+00:00
+14,assistant,"Fidel Castro fue un líder político cubano que desempeñó un papel crucial en la Revolución Cubana, que derrocó al dictador Fulgencio Batista en 1959. Castro estableció un gobierno comunista y fue primer ministro",1,2024-12-09 15:25:50.981090+00:00,2024-12-09 15:25:50.981090+00:00
+15,user,Y si me hablas de Fidel?,1,2024-12-09 15:27:56.721571+00:00,2024-12-09 15:27:56.721571+00:00
+16,assistant,"Fidel Castro fue un líder revolucionario y político cubano, conocido por haber dirigido la Revolución Cubana y por establecer un régimen comunista en Cuba. Gobernó desde 1959 hasta 2008, y su figura es objeto de controvers",1,2024-12-09 15:27:56.727123+00:00,2024-12-09 15:27:56.727123+00:00
+17,user,Y si me hablas de Fidel?,1,2024-12-09 15:34:03.642810+00:00,2024-12-09 15:34:03.642810+00:00
+18,assistant,"Fidel Castro fue un líder político cubano que gobernó Cuba desde 1959 hasta 2008, tras liderar la Revolución Cubana que derrocó a Fulgencio Batista. Fue conocido por implementar un sistema comunista en la",1,2024-12-09 15:34:03.650087+00:00,2024-12-09 15:34:03.650087+00:00
+19,user,¿Quién es Donald Trump?,1,2024-12-09 15:36:49.411454+00:00,2024-12-09 15:36:49.411454+00:00
+20,assistant,"Donald Trump es un empresario, celebridad y político estadounidense. Fue el 45.º presidente de EE. UU. (2017-2021), conocido por su estilo polémico y políticas nacionalistas.",1,2024-12-09 15:36:49.419822+00:00,2024-12-09 15:36:49.421710+00:00
+21,user,¿Quién es la presidenta de cuba?,1,2024-12-09 15:37:14.627588+00:00,2024-12-09 15:37:14.627588+00:00
+22,assistant,Pepito el cojo.,1,2024-12-09 15:37:14.638453+00:00,2024-12-09 15:37:14.638453+00:00
+23,user,¿Quién es la presidenta de cuba?,1,2024-12-09 15:37:18.686151+00:00,2024-12-09 15:37:18.686151+00:00
+24,assistant,Pepito el cojo.,1,2024-12-09 15:37:18.686151+00:00,2024-12-09 15:37:18.686151+00:00
+25,user,¿Quién es Freddy?,1,2024-12-09 15:37:30.703710+00:00,2024-12-09 15:37:30.703710+00:00
+26,assistant,"Freddy es estudiante y desarrollador web. Le interesa el desarrollo web con Django, la producción musical y el cristianismo.",1,2024-12-09 15:37:30.717181+00:00,2024-12-09 15:37:30.717181+00:00
+27,user,¿Quién es la presidenta de cuba?,1,2024-12-09 15:38:57.358993+00:00,2024-12-09 15:38:57.358993+00:00
+28,assistant,"Según mi última actualización de conocimientos, el presidente de Cuba es Miguel Díaz-Canel, quien asumió el cargo en abril de 2018.",1,2024-12-09 15:38:57.366727+00:00,2024-12-09 15:38:57.366727+00:00
+29,user,¿Quién es la presidenta de cuba? ¿Es un terrorista?,1,2024-12-10 20:46:38.082236+00:00,2024-12-10 20:46:38.082236+00:00
+30,assistant,"El presidente de Cuba es Miguel Díaz-Canel. El que se le considere terrorista es una cuestión subjetiva y depende de las opiniones políticas; es una figura controvertida, pero oficialmente no está clasificado como terrorista.",1,2024-12-10 20:46:38.090489+00:00,2024-12-10 20:46:38.090489+00:00
+31,user,Y si me hablas de Fidel?,1,2024-12-10 20:52:21.149718+00:00,2024-12-10 20:52:21.149718+00:00
+32,assistant,"Fidel Castro fue un líder cubano que gobernó desde 1959 hasta 2008. Conocido por su papel en la Revolución Cubana, estableció un régimen comunista y es una figura controvertida en la historia.",1,2024-12-10 20:52:21.162886+00:00,2024-12-10 20:52:21.162886+00:00
+33,user,Y si me hablas de Fidel?,1,2024-12-10 20:58:43.501701+00:00,2024-12-10 20:58:43.501701+00:00
+34,assistant,"Fidel Castro fue un líder político cubano, conocido por haber liderado la Revolución Cubana en 1959. Estableció un régimen comunista en la isla y gobernó hasta 2008. Su legado es objeto de controversia",1,2024-12-10 20:58:43.508075+00:00,2024-12-10 20:58:43.508075+00:00
+36,user,¿Qué es una matriz unitaria?,1,2024-12-16 20:24:43.431049+00:00,2024-12-16 20:24:43.431049+00:00
